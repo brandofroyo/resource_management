@@ -1,4 +1,5 @@
-# Resource Management Simulator: Multithreaded Programming
+# Resource Management Simulator
+#### Multithreaded Programming
 Here is some of my code for a resource management simulator that handles multithreaded programming.
 
 ## Algorithms Used:
