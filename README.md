@@ -1,8 +1,8 @@
 # Resource Management Simulator
-#### Multithreaded Programming
+## Multithreaded Programming
 Here is some of my code for a resource management simulator that handles multithreaded programming.
 
-## Algorithms Used:
+#### Algorithms Used:
 
 - Last In, First Out (LIFO)
 - First Come, First Serve (FCFS)
